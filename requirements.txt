@@ -1,0 +1,15 @@
+langchain
+streamlit
+openai
+sounddevice
+numpy
+whisper
+audio_recorder_streamlit
+PIL
+PyPDF2
+csv
+speech_recognition
+gtts
+playsound
+deep_translator
+langdetect
